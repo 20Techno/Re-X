@@ -123,7 +123,7 @@ Edit `config.json` to customize the bot as needed
 Contributions, issues and feature requests are welcome!<br />Feel free to check [issues page](https://github.com/SomnathDas/Whatsapp-Botto-Re/issues). 
 
 ## 🔮 Original Authors 
-
+<img src="https://github.com/20Techno/Re-X/blob/master/crop.jpg" width="500" />
 👤 **Somnath Das**
 
 * Twitter: [@aksd3247](https://twitter.com/aksd3247)
