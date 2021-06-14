@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://github.com/20Techno/Re-X/blob/master/download.jpg" alt="Botto-re" width="100" />
+<img src="https://github.com/20Techno/Re-X/blob/master/download.jpg" alt="Botto-re" width="250" />
 
 # Whatsapp-Botto-Re
 
