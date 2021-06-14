@@ -139,7 +139,7 @@ Contributions, issues and feature requests are welcome!<br />Feel free to check 
 * Twitter: 
 * GitHub:
 * Instagram: 
-<br/>
+
 ## 📝 License
 
 This project is [GNU General Public License v3.0](https://github.com/SomnathDas/Whatsapp-Botto-Re/blob/master/LICENSE) licensed.
