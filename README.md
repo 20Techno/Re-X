@@ -135,6 +135,10 @@ Contributions, issues and feature requests are welcome!<br />Feel free to check 
 * GitHub: [@AlenSaito1](https://github.com/AlenSaito1)
 * Instagram:
 
+👤 **Nitin** 
+* Twitter: 
+* GitHub:
+* Instagram:
 ## 📝 License
 
 This project is [GNU General Public License v3.0](https://github.com/SomnathDas/Whatsapp-Botto-Re/blob/master/LICENSE) licensed.
